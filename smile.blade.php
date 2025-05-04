@@ -7,7 +7,15 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     fdghjyuf cfghjkl;lkjhgfd
     <h1>Welcome to the Smile Page</h1>
+=======
+    mohamad salah new try to git hithub
+    <br>
+    <h1>hello</h1>
+    <h1>hello</h1>
+    <h1>hello</h1>
+>>>>>>> remas
 </body>
 </html>
